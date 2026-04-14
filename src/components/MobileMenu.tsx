@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useRef } from 'react';
-import { X, Facebook, Instagram, Twitter, Youtube } from 'lucide-react';
+import { X } from 'lucide-react';
 
 // Custom social media icons since lucide-react doesn't have them
 const FacebookIcon = ({ className }: { className?: string }) => (
